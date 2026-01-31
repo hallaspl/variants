@@ -101,6 +101,7 @@ In Power Draft odd picks end up picked by the players and even picks end up in
 the removed pile. This allows the decks to have higher power level than in
 standard draft, hence the name, Power Draft.
 
+```
 +-------------------+----------+----------------------+
 | Power Draft       |          | Standard Draft       |
 +-------------------+----------+----------------------+
@@ -122,7 +123,8 @@ standard draft, hence the name, Power Draft.
 | 7     | 13        |     E    | 13        | 13       |
 |       | 13        |      F   | 14        | 14       |
 +-------+-----------+----------+-----------+----------+
- 
+```
+
 Table 1. Pics from one player's perspective.
 
 # Variant: 20 Card Boosters
