@@ -42,6 +42,7 @@ right direction follows the same rules with the left and right words swapped.
 Each players is staring the draft step with two incoming booster to their
 right.
 
+```
 -------------
 |           |
 |  Removed  |
@@ -59,6 +60,7 @@ right.
 |           |       |           |   |           |
 |           |       |           |   |           |
 -------------       -------------   -------------
+```
 
 Fig. 1. A player's perspective of the table state before a draft step.
 
