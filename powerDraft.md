@@ -24,10 +24,6 @@ This is not desired.
 This procedure uses the same card pool as for 8 players and simulates
 the missing players actions during the draft process.
 
-# Table of Contents
-
-[[TOC]]
-
 # Draft Round
 
 8 boosters required per round. 
